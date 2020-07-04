@@ -1,2 +1,5 @@
 # Discord.js Tutorial Series
- tutorial series from https://youtube.com/itzderock
+ Too lazy to watch a video?
+ Come here to do a quick copy + paste
+ shh I won't tell anyone :p
+ https://youtube.com/itzderock
