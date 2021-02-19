@@ -44,7 +44,6 @@ client.on('message', async message => {
         if(!message.channel.name.includes("ticket-")) return message.channel.send("You cannot use that here!")
         message.channel.delete();
     }
-});
 
 client.on('messageReactionAdd', async (reaction, user) => {
     if(user.partial) await user.fetch();
