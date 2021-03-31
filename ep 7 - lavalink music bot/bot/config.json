@@ -1,0 +1,13 @@
+{
+    "token": "NjA2MDA1NDkxOTY0OTY4OTYz.XUEwmA.9AqZ_St0OWRpev8CZ13jchTCkiI",
+    "prefix": "-",
+    
+    "nodes": [
+        {
+            "id": "1",
+            "host": "localhost",
+            "port": "2333",
+            "password": "verysecurepassword"
+        }
+    ]
+}
